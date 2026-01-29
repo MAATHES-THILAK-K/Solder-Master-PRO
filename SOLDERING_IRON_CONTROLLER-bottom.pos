@@ -1,0 +1,7 @@
+### Footprint positions - created on 2026-01-30T05:49:51+0530 ###
+### Printed by KiCad version 9.0.7-9.0.7~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                                  PosX       PosY       Rot  Side
+J2        01X02     BatteryHolder_Keystone_1058_1x2032   166.7600  -104.2350  180.0000  bottom
+## End
